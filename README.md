@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sv-stepanov
+- 👋 Hi, I’m Stepan
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ALL
